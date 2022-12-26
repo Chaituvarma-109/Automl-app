@@ -1,0 +1,4 @@
+data_config:
+  data: data
+  train_dataset: "C:\Users\chait\Desktop\Automl_app\data\train"
+  test_dataset: "C:\Users\chait\Desktop\Automl_app\data\test"

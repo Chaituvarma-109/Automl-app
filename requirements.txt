@@ -1,0 +1,7 @@
+flask~=2.2.2
+pandas~=1.5.2
+scikit-learn
+pymongo~=4.3.3
+werkzeug~=2.2.2
+certifi~=2022.9.24
+Flask-WTF
